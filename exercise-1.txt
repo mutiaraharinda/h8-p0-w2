@@ -1,0 +1,53 @@
+
+1. Hukum Newton
+a. Algoritma
+- Diketahui m = 600 (kg)
+- Diketahui a = 2 (m/s2)
+- Hitung ΣF = m * a
+- Tampilkan hasil ΣF 
+b. Pseudocode
+- Read ΣF
+- Read m = 600 (kg)
+- Read a = 2 (m/s2)
+- Compute ΣF = m * a
+- Display ΣF  
+
+2. Tahun Kabisat
+a. Algoritma
+- Jika tahun habis dibagi 4
+- Jika tahun habis dibagi 100
+- Jika tahun habis dibagi 400
+-Maka tahun adalah tahun kabisat, selain itu bukan tahun Kabisat
+b. Pseudocode
+if 
+- year modulo 4 is 0
+- year modulo 100 is 0
+- year modulo 400 is 0
+then is leap year
+else is not leap year
+
+3. Laundry Day
+a. Algoritma
+- Foxie akan memasukkan pakaian satu per satu
+- jumlah pakaian Foxie 20 potong
+- apabila pakaian sudah sejumlah 20 potong, nyalakan mesin cuci
+- mulai mencuci
+b. Pseudocode
+- Open washing machine
+- Input 1 cloth
+- Repeat input clothes
+- If clothes = 20, then stop
+- Turn on the washing machine
+- Do the washing activity
+
+4. Periksa Kuku
+a. Algoritma
+- Guru memeriksa kuku siswa sebanyak 40 siswa
+- Lakukan pemeriksaan kuku siswa
+- Apabila kuku siswa panjang maka hukum sebaliknya apabila kuku siswa pendek maka guru akan puji
+- Apabila sudah mencapai 40 siswa maka guru berhenti memeriksa kuku
+b. Pseudocode
+- Inspect student's nails
+- If if student's nails are dirty do punishment else if student nails are clean then do compliment
+- Repeat inspect student's nails
+- If inspected student's = 40 then stop
